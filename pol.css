@@ -1,0 +1,70 @@
+
+
+.parent {
+    /* border: 2px solid black; */
+    margin: 5px 90px;
+    height: 540px;
+}
+
+.img1 img {
+    width: 100%;
+}
+
+.blog {
+    /* border: 2px solid red; */
+    position: relative;
+    width: 1000px;
+    height: 1800px;
+    top: -200px;
+    right: -300px;
+    background-color: white;
+}
+
+body {
+    font-family: 'Ubuntu Condensed', sans-serif;
+    background: #f5f6f7;
+}
+
+.blog .content {
+    font-family: 'Montserrat', sans-serif;
+    margin: 50px 20px;
+}
+
+.blog .text {
+    margin: 2px 70px ;
+    margin-top: 20px;
+    text-align: justify;
+    line-height: 30px;
+}
+
+.blog .sub {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.blog a {
+    text-decoration: none;
+    color: green;
+}
+
+.blog p {
+    font-size: 17px;
+}
+
+.blog .img1 {
+    position: relative;
+    right:-280px;
+    margin-top: 20px;
+}
+
+.blog h2 {
+    padding-top: 40px;
+}
+
+.feature_image img {
+    position: relative;
+    right: -280px;
+    width: auto;
+    height: 200px;
+    margin: 20px;
+}
